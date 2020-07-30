@@ -46,7 +46,7 @@ Citizen.CreateThread(function()
                 end
 
                 SetFollowPedCamViewMode(4)
-            else
+            elseif initialCamViewMode ~= nil then
                 SetFollowPedCamViewMode(initialCamViewMode)
 
                 initialCamViewMode = nil
