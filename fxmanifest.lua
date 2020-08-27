@@ -26,5 +26,5 @@ server_scripts {
 name        "encore_rpweapons"
 description "Reticle removal and forced first person for FiveM."
 author      "CharlesHacks#9999"
-version     "1.0.0"
+version     "1.0.2"
 license     "MIT"
